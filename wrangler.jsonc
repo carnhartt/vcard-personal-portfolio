@@ -1,0 +1,9 @@
+{
+  "name": "your-portfolio",
+  "main": "index.html",
+  "compatibility_date": "2026-01-15",
+  "assets": {
+    "directory": "./"
+  },
+  "pages_build_output_dir": "./"
+}
